@@ -328,7 +328,7 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 * [ntnlbar's solution](https://github.com/ntnlbar/learn_ruby)
 * [Igor's solution](https://github.com/mojotron/learn_ruby)
 * [Loc Nguyen's solution](https://github.com/vinhloc30796/learn_ruby)
-
+* [David Iscoe's solution](https://github.com/KingHanksley/learn_ruby)
 ### Additional Resources
 
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
