@@ -685,3 +685,4 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [matpintes' solution](https://github.com/matpintes/squarepad) | [View in browser](https://matpintes.github.io/squarepad/)
 * [Alex's solution](https://github.com/alexcorremans/sketch) | [View in browser](https://alexcorremans.github.io/sketch/)
 * [Afeso Franklyn's Solution](https://github.com/afeso/sketchpad) | [View in browser](https://afeso.github.io/sketchpad/)
+* [David Iscoe's solution](https://github.com/KingHanksley/etchasketch) | [View in browser](https://cdn.rawgit.com/KingHanksley/etchasketch/3e61fe69/etchasketch.html)
